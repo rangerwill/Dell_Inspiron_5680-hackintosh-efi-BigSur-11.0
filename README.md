@@ -1,9 +1,6 @@
 # Dell_Inspiron_5680-hackintosh-efi-BigSur-11.0
 适用于戴尔灵越5680的黑苹果配置文件 (独显从Nvidia GTX1066替换为AMD RX564)
 
-# Dell_Inspiron_5680-hackintosh-efi-BigSur-11.0
-适用于戴尔灵越5680的黑苹果配置文件 (独显从Nvidia GTX1066替换为AMD RX564) 
-
 
 
 
