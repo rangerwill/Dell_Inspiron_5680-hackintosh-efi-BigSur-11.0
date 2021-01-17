@@ -51,3 +51,7 @@ Do make sure you have already booted into bios and made the suggested changes be
     Secure Boot = Disabled
 
 Otherwise your hackintosh might be not bootable.
+
+目前问题
+有一个前置USB3.0无法使用，
+如果有大佬能帮助解决，万分感谢。
